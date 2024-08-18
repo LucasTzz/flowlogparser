@@ -16,7 +16,6 @@ It has 3 classes:
 2. The dstPort is 7th field, protocol is 8th field.
 3. The flow log records being parsed contain 4 kinds of protocols: ICMP, IPv4, TCP, UDP.  
 See the protocol numbers [here](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
-4. Tags are case-insensitive: sv_P1 is the same as SV_p1.
 
 ## Compile and Run
 ### Compile
